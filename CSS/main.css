@@ -68,7 +68,7 @@ footer{
     margin-top: 20px;
 }
 
-@media (width <= 900px){
+@media (width <= 5000px){
     section{
         flex-direction: column;
         text-align: center;
